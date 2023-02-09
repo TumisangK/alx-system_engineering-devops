@@ -1,2 +1,2 @@
 #!/bin/bash
-chowner -hr vincent|stuff .
+chowner -hr vincent stuff .
