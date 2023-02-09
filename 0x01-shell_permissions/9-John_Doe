@@ -1,2 +1,2 @@
 #!/bin/bash
-chowner 753 hello 
+chowner -rwxr-x-wx hello 
