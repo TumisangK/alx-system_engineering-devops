@@ -1,2 +1,2 @@
 #!/bin/bash
-chowner -hr betty|alxschool .
+chowner -hr vincent|stuff .
